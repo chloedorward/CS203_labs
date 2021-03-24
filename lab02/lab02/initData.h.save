@@ -1,0 +1,12 @@
+#ifndef INITDATA_H
+#define INITDATA_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+void initData();
+
+int main(int argc, char* argv[]);
+
+#endif // INITDATA_H
